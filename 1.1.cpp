@@ -19,6 +19,7 @@ int main()
             double area=calcCircleArea(r);
             cout<<fixed<<setprecision(2)<<area<<endl;
             break;
+        }
     }
     return 0;
 }
